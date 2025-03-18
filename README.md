@@ -1,4 +1,4 @@
-# ELIZAボット
+# ELIZAチャットボット
 
 ## 使用したもの
  - Streamlit
